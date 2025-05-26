@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Operation Waterloo - Crazy Crisis</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('https://images.unsplash.com/photo-1503437313881-503a91226402?auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Segoe UI', sans-serif;
+      color: white;
+      text-shadow: 1px 1px 2px black;
+    }
+    .container {
+      max-width: 800px;
+      margin: 80px auto;
+      background: rgba(0,0,0,0.6);
+      padding: 40px;
+      border-radius: 12px;
+    }
+    h1 {
+      font-size: 48px;
+      margin-bottom: 0;
+    }
+    h2 {
+      font-size: 28px;
+      margin-top: 10px;
+    }
+    .updates {
+      margin-top: 20px;
+    }
+    .updates li {
+      margin-bottom: 8px;
+    }
+    a {
+      color: #FFD700;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>OPERATION WATERLOO</h1>
+    <h2>Crazy Crisis Control Center</h2>
+
+    <p><strong>Status:</strong> 🔴 Code Red</p>
+    <p><strong>Last Updated:</strong> May 26, 2025</p>
+
+    <div class="updates">
+      <h3>📢 Latest Updates</h3>
+      <ul>
+        <li>🆕 May 26 – Uploaded new <a href="#">PDF briefing</a></li>
+        <li>🖼️ May 25 – Changed background to galaxy explosion</li>
+        <li>📄 May 22 – Mission initiated</li>
+      </ul>
+    </div>
+
+    <p>🔗 <strong>Download Files:</strong></p>
+    <ul>
+      <li><a href="#">Crisis_Report_v1.pdf</a></li>
+      <li><a href="#">Mission_Guidebook.pdf</a></li>
+    </ul>
+
+    <p style="margin-top:40px;">🧠 Stay Alert. Stay Alive. Survive the Crazy Crisis.</p>
+  </div>
+</body>
+</html>
