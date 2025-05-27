@@ -5,13 +5,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Operation Waterloo</title>
+  <Operation Waterloo UK>
   <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
       font-family: 'Special Elite', monospace;
-      background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/London_UK_aerial_view.jpg/1200px-London_UK_aerial_view.jpg') no-repeat center center fixed;
+      background: url(https://images.app.goo.gl/mQ7bL2UYsjguaQcs9') no-repeat center center fixed;
       background-size: cover;
       color: #f5f5f5;
     }
@@ -22,7 +22,7 @@
       padding: 30px;
       border-radius: 12px;
     }
-    h1 {
+    h1 {Operation Waterloo
       font-size: 3rem;
       text-align: center;
       color: #ff4444;
@@ -49,7 +49,7 @@
     <!-- Title -->
     <h1>Operation Waterloo</h1>
     <!-- Sub Title -->
-    <p style="text-align:center; font-size: 1.2rem;">Mission Control Center — Top Priority Crisis Operation</p>
+    <p style="text-align:center; font-size: 1.2rem;">2025 KHMUNERS'ELITE Crisis the United Kingdom official website</p>
 
     <!-- News Update -->
     <div class="news-update">
