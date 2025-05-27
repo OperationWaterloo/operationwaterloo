@@ -68,14 +68,18 @@
 
     <!-- Members Intro -->
     <div class="Members">
-      <h2>Founders</h2>
+      <h2>United Kingdom Memders</h2>
       <div class=" Narangi Yemina Neemboo">
         <strong>Prime Minister– “Narangi Yemina Neemboo”</strong><br>
-        Strategic Commander. Specialist in crisis communication, public mobilization, and document sabotage.
+        Citrus including tangerine, pomelo, lemon. Specialist in smashing potatoes, BELIA not Bella, and abraaaaababababa .
       </div>
       <div class="Chief of the Secret  Intelligence Service(MI6)-Nortzuk Cadwcanol">
-        <strong>Agent 02 – “Echo”</strong><br>
-        Intel Architect. Known for encryption, counter-surveillance, and aesthetics of subversion.
+        <strong>Chief of the Secret  Intelligence Service(MI6) – “Nortzuk Cadwcanol”</strong><br>
+        Keep in the middle. Brian eats carrots. Known for weird idea, working with strange people rn, and cavacava.
+      </div>
+      <div class=" Secretary of State for Defence–Skape Visberg">
+        <strong>Secretary of State for Defence– “Skape Visberg”</strong><br>
+        Feeding fish in mountain. Famous for uncontrollable laughter, alway on fire, and ho han holl.
       </div>
     </div>
   </div>
