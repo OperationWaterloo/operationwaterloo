@@ -82,10 +82,11 @@
         <strong>Secretary of State for Defence– “Skape Visberg”</strong><br>
         Feeding fish in mountain. Famous for uncontrollable laughter, alway on fire, and ho han holl.
       </div>
-      <p>Email: <a href="mailto:operation.waterloo.uk@gmail.com">operation.waterloo.uk@gmail.com</a></p>
+    
 <!-- Instagram Links Section -->
 <div class="instagram-links">
   <h2>Connect with Us</h2>
+    <p>Email: <a href="mailto:operation.waterloo.uk@gmail.com">operation.waterloo.uk@gmail.com</a></p>
   <div class="ig-link">
     <a href="https://www.instagram.com/y.ning3/profilecard/?igsh=cHdxY2Y5bXJkOW5w" target="_blank">Prime Minister– Belia</a>
   </div>
