@@ -82,6 +82,20 @@
         <strong>Secretary of State for Defence– “Skape Visberg”</strong><br>
         Feeding fish in mountain. Famous for uncontrollable laughter, alway on fire, and ho han holl.
       </div>
+      <!-- Instagram Links Section -->
+<div class="Us">
+  <h2>Connect with Us</h2>
+  <div class="Belia">
+    <a href="[https://instagram.com/agent01](https://www.instagram.com/y.ning3/profilecard/?igsh=cHdxY2Y5bXJkOW5w)" target="_blank">Agent 01 – Cipher</a>
+  </div>
+  <div class="Sammie">
+    <a href="[https://instagram.com/agent02](https://www.instagram.com/sammie.yu3?igsh=bG55aTk1eXI4MThu)" target="_blank">Agent 02 – Echo</a>
+  </div>
+  <div class="Brina">
+    <a href="[https://instagram.com/agent03](https://www.instagram.com/carrot_1006?igsh=MXYya3hpZDkweDhkYQ==)" target="_blank">Agent 03 – Phantom</a>
+  </div>
+</div>
+
     </div>
   </div>
 </body>
