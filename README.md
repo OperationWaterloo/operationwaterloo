@@ -67,13 +67,13 @@
     </div>
 
     <!-- Founders Intro -->
-    <div class="founders">
+    <div class="Members">
       <h2>Founders</h2>
-      <div class="founder-bio">
+      <div class="Prime Minister- Narangi Yemina Neemboo">
         <strong>Agent 01 – “Cipher”</strong><br>
         Strategic Commander. Specialist in crisis communication, public mobilization, and document sabotage.
       </div>
-      <div class="founder-bio">
+      <div class="Chief of the Secret  Intelligence Service(MI6)-Nortzuk Cadwcanol">
         <strong>Agent 02 – “Echo”</strong><br>
         Intel Architect. Known for encryption, counter-surveillance, and aesthetics of subversion.
       </div>
