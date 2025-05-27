@@ -89,8 +89,13 @@
 
   <h2>Connect with the Leadership</h2>
   <ul class="ig-list">
+     <li>
+      <a href="https://www.instagram.com/y.ning3/profilecard/?igsh=cHdxY2Y5bXJkOW5w
+    <li>
+      <a href="https://www.instagram.com/sammie.yu3?igsh=bG55aTk1eXI4MThu
     <li>
       <a href="https://www.instagram.com/carrot_1006?
+        
   </div>
 </div>
 
