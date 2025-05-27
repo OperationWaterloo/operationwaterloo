@@ -1,4 +1,4 @@
-## Welcome to the official website of the GREAT BRITAIN 
+## Welcome! We are GREAT BRITAIN 
 
 <!--
 **OperationWaterloo/operationwaterloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
