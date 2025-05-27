@@ -66,11 +66,11 @@
       <div class="file-link"><a href="assets/Statements.pdf" target="_blank">Official Statement</a></div>
     </div>
 
-    <!-- Founders Intro -->
+    <!-- Members Intro -->
     <div class="Members">
       <h2>Founders</h2>
-      <div class="Prime Minister- Narangi Yemina Neemboo">
-        <strong>Agent 01 – “Cipher”</strong><br>
+      <div class=" Narangi Yemina Neemboo">
+        <strong>Prime Minister– “Narangi Yemina Neemboo”</strong><br>
         Strategic Commander. Specialist in crisis communication, public mobilization, and document sabotage.
       </div>
       <div class="Chief of the Secret  Intelligence Service(MI6)-Nortzuk Cadwcanol">
